@@ -1,0 +1,14 @@
+C:\Users\ttkkk\source\repos\Week1firstapp\Week1firstapp\bin\Debug\net8.0\Week1firstapp.exe
+C:\Users\ttkkk\source\repos\Week1firstapp\Week1firstapp\bin\Debug\net8.0\Week1firstapp.deps.json
+C:\Users\ttkkk\source\repos\Week1firstapp\Week1firstapp\bin\Debug\net8.0\Week1firstapp.runtimeconfig.json
+C:\Users\ttkkk\source\repos\Week1firstapp\Week1firstapp\bin\Debug\net8.0\Week1firstapp.dll
+C:\Users\ttkkk\source\repos\Week1firstapp\Week1firstapp\bin\Debug\net8.0\Week1firstapp.pdb
+C:\Users\ttkkk\source\repos\Week1firstapp\Week1firstapp\obj\Debug\net8.0\Week1firstapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ttkkk\source\repos\Week1firstapp\Week1firstapp\obj\Debug\net8.0\Week1firstapp.AssemblyInfoInputs.cache
+C:\Users\ttkkk\source\repos\Week1firstapp\Week1firstapp\obj\Debug\net8.0\Week1firstapp.AssemblyInfo.cs
+C:\Users\ttkkk\source\repos\Week1firstapp\Week1firstapp\obj\Debug\net8.0\Week1firstapp.csproj.CoreCompileInputs.cache
+C:\Users\ttkkk\source\repos\Week1firstapp\Week1firstapp\obj\Debug\net8.0\Week1firstapp.dll
+C:\Users\ttkkk\source\repos\Week1firstapp\Week1firstapp\obj\Debug\net8.0\refint\Week1firstapp.dll
+C:\Users\ttkkk\source\repos\Week1firstapp\Week1firstapp\obj\Debug\net8.0\Week1firstapp.pdb
+C:\Users\ttkkk\source\repos\Week1firstapp\Week1firstapp\obj\Debug\net8.0\Week1firstapp.genruntimeconfig.cache
+C:\Users\ttkkk\source\repos\Week1firstapp\Week1firstapp\obj\Debug\net8.0\ref\Week1firstapp.dll
